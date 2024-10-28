@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What is the output of `console.log(typeof NaN);`?",
+        "options": ["number", "undefined", "NaN", "object"],
+        "answer": "number"
+    },
+    {
+        "question": "Which method is used to parse a string to an integer in JavaScript?",
+        "options": ["parseInt()", "parseInteger()", "int.parse()", "parse()"],
+        "answer": "parseInt()"
+    },
+    {
+        "question": "What does `===` operator do in JavaScript?",
+        "options": ["Assigns a value", "Checks type and value equality", "Checks value equality", "Compares variables without type"],
+        "answer": "Checks type and value equality"
+    },
+    {
+        "question": "How do you write a comment in JavaScript?",
+        "options": ["<!-- comment -->", "# comment", "// comment", "/* comment */"],
+        "answer": "// comment"
+    },
+    {
+        "question": "Which of the following is a JavaScript framework?",
+        "options": ["React", "Laravel", "Django", "Flask"],
+        "answer": "React"
+    },
+    {
+        "question": "Which keyword is used to define a variable in JavaScript?",
+        "options": ["var", "let", "const", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What will `console.log(1 + '1');` output?",
+        "options": ["2", "'11'", "Syntax Error", "NaN"],
+        "answer": "'11'"
+    },
+    {
+        "question": "Which function is used to delay execution of code in JavaScript?",
+        "options": ["setTimeout()", "setDelay()", "wait()", "sleep()"],
+        "answer": "setTimeout()"
+    },
+    {
+        "question": "What will `console.log([] == ![]);` output?",
+        "options": ["true", "false", "undefined", "null"],
+        "answer": "true"
+    },
+    {
+        "question": "What is the purpose of `Array.prototype.map()` in JavaScript?",
+        "options": [
+            "To iterate over elements and create a new array",
+            "To filter elements based on condition",
+            "To reduce elements to a single value",
+            "To find an element in an array"
+        ],
+        "answer": "To iterate over elements and create a new array"
+    }
+]
